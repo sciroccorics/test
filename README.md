@@ -21,7 +21,7 @@ And finally a source block (delimited by **\~\~\~**), preserving layout and incl
 >>> a**2
 100
 ~~~
-
+----
 # Second section
 
 ## Second subsection
