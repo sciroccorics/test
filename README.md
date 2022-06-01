@@ -1,4 +1,4 @@
-# *(GITHUB FLAVOR)* MARKDOWN
+# MARKDOWN SAMPLE
 
 <!-- First comment -->
 
