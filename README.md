@@ -1,4 +1,4 @@
-# MARKDOWN SAMPLE
+# GITHUB TEST PROJECT
 
 <!-- First comment -->
 
