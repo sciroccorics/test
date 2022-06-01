@@ -1,12 +1,10 @@
 # GITHUB TEST PROJECT
 
-<!-- First comment -->
+<!-- This is a comment -->
 
-First section
-=============
+# This is a section
 
-First subsection
-----------------
+## This is a subsection
 
 Standard block including **some words in bold**, *some words in italics*, _**some words in bold-italics**_, `some words in monospace`, ~~some words in stroke~~ and even an direct URL reference: http://www.wikipedia.org
 
@@ -21,10 +19,12 @@ And finally a source block (delimited by **\~\~\~**), preserving layout and incl
 >>> a**2
 100
 ~~~
-----
-# Second section
 
-## Second subsection
+---
+
+# This is another section
+
+## This is another subsection
 
 * First item of unordered list
 * Second item of unordered list
